@@ -24,7 +24,7 @@ Real-time video surveillance (to be developed)
 4.Development Plan
 Completed before 4 months.
 1) Prepare materials before March 10
-2) March 1-20, embedded development, cloud development
+2) March 10-20, embedded development, cloud development
 3) Overall commissioning before March 25.
 
 
