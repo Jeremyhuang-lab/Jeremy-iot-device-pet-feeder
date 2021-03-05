@@ -4,7 +4,7 @@ For more information, please check Tuya Developer Website.
 
 1.Product name
 ==
-Pet feeder
+Smart Pet feeder
 
 2.Product creative reasons
 ==
