@@ -19,6 +19,7 @@ With people’s increasing material life needs and yearning for a better life, m
 3.Product Features
 ==
 APP control Timing and quantification Automatic grain feeding Scientific feeding plan Food shortage reminder 
+Xiaoai classmate voice control
 Real-time video surveillance (to be developed)
 
 4.Development Plan
