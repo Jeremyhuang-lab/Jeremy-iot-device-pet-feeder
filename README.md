@@ -39,10 +39,10 @@ Voice control, through the Tuya WIFI module docking smart voice such as Xiaodu, 
 
 Real-time video monitoring is expected to be possible through OPENCV or whether it can be connected to other video equipment through Tuya WIFI module, and send real-time video of pets through them.
 
-
-4. Part of the design rules
+4.Part of the design rules
 ==
 Single-chip main control select domestic 8051 single-chip STC15W58S4 or select STM32F103 series
+
 Motor drive adopts H-bridge drive. Single-chip PWM control of brushed DC motor speed or ULN2003 to drive unipolar stepping motor also uses single-chip PWM to control direction and speed.
 
 Temperature and humidity chip can choose SHT30 or DHT11
