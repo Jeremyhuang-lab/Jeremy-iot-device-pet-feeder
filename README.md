@@ -51,7 +51,7 @@ RGB lighting effects can be added at the same time
 
 If possible, use a 3.3V boost 5V chip to drive the UVC lamp to disinfect food and drinking water regularly.
 
-5. Development plan
+5.Development plan
 ==
 1) Prepare materials before March 25
 2) Embedded development and cloud development from March 25 to April 15
