@@ -53,8 +53,8 @@ If possible, use a 3.3V boost 5V chip to drive the UVC lamp to disinfect food an
 
 5.Development plan
 ==
-1) Prepare materials before March 25
-2) Embedded development and cloud development from March 25 to April 15
-3) Overall commissioning before April 20.
+1) Prepare materials before March 15
+2) Embedded development and cloud development from March 15 to March 25
+3) Overall commissioning before  March 30.
 
 
